@@ -1,4 +1,6 @@
-# Inverted Racer  
+Inverted Racer
+==============
+
 *By Ivan Sobonja, Matthew Gregory, Joseph Kenton, and Kevin Wang*  
 
 ##### Genre

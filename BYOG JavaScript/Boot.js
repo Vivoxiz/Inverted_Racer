@@ -4,7 +4,7 @@ topDownCarGame.Boot = function (game) {};
 
 topDownCarGame.Boot.prototype = {
     preload: function() {
-        this.load.image('titlepage', TITLE GOES HERE);
+        this.load.image('titleimage', TITLE GOES HERE);
     }
   
     create: function() {

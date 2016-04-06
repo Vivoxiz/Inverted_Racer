@@ -1,6 +1,5 @@
 topDownCarGame.Preloader = function (game) {
     this.titleText = null;
-    this.ready = false;
 }
 
 topDownCarGame.Preloader.prototype = {

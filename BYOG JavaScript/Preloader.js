@@ -22,5 +22,5 @@ topDownCarGame.Preloader.prototype = {
     create: function () {
 	this.preloadBar.cropEnabled = false; //force show the whole thing
         this.state.start('StartMenu');
-	}
+}
 };
